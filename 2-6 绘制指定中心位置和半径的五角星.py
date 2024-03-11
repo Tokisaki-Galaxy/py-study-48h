@@ -43,7 +43,7 @@ def draw_fiveanglestar(ori_x,ori_y,r):
     t.penup()
     t.goto(50,-170)
     t.pendown()
-    t.write("2306020123 韩镒名",font=("Arial",20,"normal"))
+    t.write("xxxxxx",font=("Arial",20,"normal"))
     t.hideturtle();
 
 def draw_using_L(ori_x,ori_y,r,L):
